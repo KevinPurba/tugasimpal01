@@ -1,0 +1,6 @@
+Sistem ini dibuat dalam bentuk HTML dan PHP MYADMIN sebagain database nya
+Sistem ini memiliki fitur :
+Dapat Mencatat data pasien yang masuk
+Mencatat Data Pegawai
+Mencatat Ruangan yang ada di Klinik
+
